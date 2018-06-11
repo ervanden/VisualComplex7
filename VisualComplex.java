@@ -1143,7 +1143,7 @@ public class VisualComplex implements ActionListener, MouseListener, MouseMotion
 
 }
 
-class MainVisualComplex {
+class MainVisualComplex { // contains main class
 
     public static void main(String[] args) {
 
